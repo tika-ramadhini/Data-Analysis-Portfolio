@@ -1,4 +1,4 @@
-## Data-Analysis-Portfolio
+# Data Analyst Portfolio
 A repository for my personal data analytics projects. In this repository, I intend to showcase my skills, track my ongoing projects, and share my finished projects.
 
 Introduction
@@ -12,15 +12,15 @@ I also publish some data journalism articles on Medium:
 
 ## Python Projects
 
-# Data Cleaning
+### Data Cleaning
 Code: 
 
-# Data Exploration Analysis
+### Data Exploration Analysis
 Code: data mocking and analysis/Theraply DataFrame Analysis and Visualizations.ipynb
 
 This dataset contains lists of psychotherapists in Berlin. I did data loading, cleaning, exploratory data analysis, and some data visualizations to get insights from the dataset. I used pandas, numpy, and matplotlib for this analysis. The results of the analysis show the average waiting time for an appointment with a therapist in Berlin and the correlations between patients' types of insurance and waiting time to get an appointment. 
 
-# Data Mocking and Predicting Success Rate
+### Data Mocking and Predicting Success Rate
 Code: 
 1st dataset:
 data mocking and analysis/final user mock data modelling theraply.ipynb
@@ -29,7 +29,7 @@ data mocking and analysis/Algorithm for Success Rate and Average Waiting Time.ip
 
 These two notebooks are related to each other. Using the same dataset of lists of psychotherapists, I did a data mocking to simulate the experience of Theraply user in looking for an appointment on the app and also predict the success rate of booking an appointment. I used pandas and random for the data mocking. For calculating average waiting time and success rate, I used pandas, numpy, and matplotlib. The results show the prediction of success rate, the waiting time, and lists of available therapists for the user.
 
-# Algorithm for Similar Results Suggestions
+### Algorithm for Similar Results Suggestions
 
 Code: data mocking and analysis/Algorithm for Similar Therapist Suggestion System.ipynb
 
@@ -39,4 +39,20 @@ This algorithm is related to the Theraply data mocking analysis above. It was de
 
 This project...
 
-# Excel 
+## Excel Projects
+
+...
+
+## R Projects
+
+...
+
+## Tableau Projects
+
+Please check my Tableau Public profile:
+and the dashboards I worked on during an internship on this profile: [
+](https://public.tableau.com/app/profile/dki.dashboard.data/vizzes)
+
+## Power BI Projects
+
+...
