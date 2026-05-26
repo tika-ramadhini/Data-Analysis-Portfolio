@@ -6,9 +6,9 @@ Introduction
 Hi, my name is Tika! I am a junior data analyst with a background in social science academic research, journalism, and social media management. I find my academic background and years of research experience very useful in the field of data analytics, giving me more varied insights and understanding. 
 I finished a data science bootcamp at Techlabs Berlin in 2022 and the Google Data Analytics course in 2024. I developed a web-app called Theraply with my working group as a final project for Techlabs' program. Between November 2025 and April 2026, I worked as a data analyst assistant in a satisfactory index research project as a part of my remote internship. Since then, I have been working on several independent practice projects. I am thrilled to share my takes and stories as a junior-level data specialist through projects in this repository.
 
-Here you can find my Linkedin profile.
+Here you can find my [Linkedin profile
+](https://www.linkedin.com/in/tika-r-6a0a7a49/)
 I also publish some data journalism articles on Medium: 
-
 
 ## Python Projects
 
@@ -22,8 +22,10 @@ This dataset contains lists of psychotherapists in Berlin. I did data loading, c
 
 ### Data Mocking and Predicting Success Rate
 Code: 
+
 1st dataset:
 data mocking and analysis/final user mock data modelling theraply.ipynb
+
 2nd dataset:
 data mocking and analysis/Algorithm for Success Rate and Average Waiting Time.ipynb
 
@@ -50,7 +52,7 @@ This project...
 ## Tableau Projects
 
 Please check my Tableau Public profile:
-and the dashboards I worked on during an internship on this profile: [
+and the dashboards I worked on during an internship on this profile: [DKI Dashboard
 ](https://public.tableau.com/app/profile/dki.dashboard.data/vizzes)
 
 ## Power BI Projects
