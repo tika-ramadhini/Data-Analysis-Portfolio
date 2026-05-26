@@ -16,7 +16,7 @@ I also publish some data journalism articles on Medium:
 Code: 
 
 ### Data Exploration Analysis
-Code: data mocking and analysis/Theraply DataFrame Analysis and Visualizations.ipynb
+Code:  [Data Exploration Analysis and Visualizations](https://github.com/tika-ramadhini/Data-Analysis-Portfolio/blob/main/Python/Theraply%20DataFrame%20Analysis%20and%20Visualizations.ipynb)
 
 This dataset contains lists of psychotherapists in Berlin. I did data loading, cleaning, exploratory data analysis, and some data visualizations to get insights from the dataset. I used pandas, numpy, and matplotlib for this analysis. The results of the analysis show the average waiting time for an appointment with a therapist in Berlin and the correlations between patients' types of insurance and waiting time to get an appointment. 
 
@@ -24,10 +24,10 @@ This dataset contains lists of psychotherapists in Berlin. I did data loading, c
 Code: 
 
 1st dataset:
-data mocking and analysis/final user mock data modelling theraply.ipynb
+ [Mock Data Modelling Theraply](https://github.com/tika-ramadhini/Data-Analysis-Portfolio/blob/main/Python/final%20user%20mock%20data%20modelling%20theraply.ipynb)
 
 2nd dataset:
-data mocking and analysis/Algorithm for Success Rate and Average Waiting Time.ipynb
+ [Success Rate and Average Waiting Time](https://github.com/tika-ramadhini/Data-Analysis-Portfolio/blob/main/Python/Algorithm%20for%20Success%20Rate%20and%20Average%20Waiting%20Time.ipynb)
 
 These two notebooks are related to each other. Using the same dataset of lists of psychotherapists, I did a data mocking to simulate the experience of Theraply user in looking for an appointment on the app and also predict the success rate of booking an appointment. I used pandas and random for the data mocking. For calculating average waiting time and success rate, I used pandas, numpy, and matplotlib. The results show the prediction of success rate, the waiting time, and lists of available therapists for the user.
 
@@ -35,6 +35,7 @@ These two notebooks are related to each other. Using the same dataset of lists o
 
 Code:  [Algorithm for Similar Therapist Suggestion
 ](https://github.com/tika-ramadhini/Data-Analysis-Portfolio/blob/main/Python/Algorithm%20for%20Similar%20Therapist%20Suggestion%20System.ipynb)
+
 This algorithm is related to the Theraply data mocking analysis above. It was deployed as parts of the Theraply app feature. In this project, I used pandas, numpy, matplotlib, and sklearn. I did data loading and text processing with TF-IDF vectorizer. The result suggests 10 similar therapists based on similarities in types of therapy and expertise.
 
 ## SQL Projects
