@@ -33,8 +33,8 @@ These two notebooks are related to each other. Using the same dataset of lists o
 
 ### Algorithm for Similar Results Suggestions
 
-Code: data mocking and analysis/Algorithm for Similar Therapist Suggestion System.ipynb
-
+Code:  [Algorithm for Similar Therapist Suggestion
+](https://github.com/tika-ramadhini/Data-Analysis-Portfolio/blob/main/Python/Algorithm%20for%20Similar%20Therapist%20Suggestion%20System.ipynb)
 This algorithm is related to the Theraply data mocking analysis above. It was deployed as parts of the Theraply app feature. In this project, I used pandas, numpy, matplotlib, and sklearn. I did data loading and text processing with TF-IDF vectorizer. The result suggests 10 similar therapists based on similarities in types of therapy and expertise.
 
 ## SQL Projects
